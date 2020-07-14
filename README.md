@@ -1,3 +1,7 @@
+## Report
+
+## Sample Run
+
 ## Frame 1 - Register
 https://github.com/Yoncing99/Project/blob/master/Java%20Code/Register.java
 
@@ -18,3 +22,5 @@ https://github.com/Yoncing99/Project/blob/master/Output%20%26%20Input%20File/reg
 purchasing form -
                 Output in Frame 3 ; Input in Frame 4<br/><br/>
 https://github.com/Yoncing99/Project/blob/master/Output%20%26%20Input%20File/purchasing%20form.txt
+
+
