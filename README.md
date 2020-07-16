@@ -2,6 +2,7 @@
 https://github.com/Yoncing99/Project/blob/master/Project%20A192.pdf
 
 ## Sample Run
+https://github.com/Yoncing99/Project/blob/master/The%20Sample%20Run.pdf
 
 ## Frame 1 - Register
 https://github.com/Yoncing99/Project/blob/master/Java%20Code/Register.java
